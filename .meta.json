@@ -5,7 +5,7 @@
     "http://dataspecer.com/resources/local/package"
   ],
   "userMetadata": {
-    "label": {},
+    "label": {"cs": "New name"},
     "description": {}
   },
   "metadata": {
